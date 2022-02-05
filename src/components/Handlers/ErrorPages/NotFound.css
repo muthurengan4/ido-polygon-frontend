@@ -1,0 +1,14 @@
+.not-found-sec{
+    margin:auto;
+    padding-bottom:0;
+}
+
+.not-found-sec .not-found-img-sec {
+    text-align: center;
+    padding-top: 8em;
+}
+
+.not-found-sec .not-found-img-sec img {
+    max-width: 30em;
+    margin-bottom: 2em;
+}

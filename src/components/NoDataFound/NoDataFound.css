@@ -1,0 +1,14 @@
+.no-data-found-sec{
+    margin:auto;
+    padding-bottom:0;
+}
+
+.no-data-found-sec .no-data-found-img-sec {
+    text-align: center;
+    padding: 2em 0;
+}
+
+.no-data-found-sec .no-data-found-img-sec img {
+    max-width: 20em;
+    margin-bottom: 2em;
+}
